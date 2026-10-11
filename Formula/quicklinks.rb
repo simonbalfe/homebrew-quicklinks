@@ -1,8 +1,8 @@
 class Quicklinks < Formula
-  desc "Tiny macOS launcher: hotkey, keyword links, folders and apps"
+  desc "Lightweight macOS launcher: hotkey, keyword links, folders and apps"
   homepage "https://github.com/simonbalfe/quicklinks"
-  url "https://github.com/simonbalfe/quicklinks/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d7c3aca05a9b6b2c988daade05a928dbda236734b632ebd63c378ee60602ad38"
+  url "https://github.com/simonbalfe/quicklinks/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "479aed1c8153b08d8ec536a21cbd843668f7a02e5090b7271aa211677410fa62"
   license "MIT"
 
   depends_on macos: :sonoma
